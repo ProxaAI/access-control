@@ -1,6 +1,6 @@
 {
   "name": "@proxaai/access-control",
-  "version": "6.0.5",
+  "version": "6.0.4",
   "description": "Role, Attribute and Condition based Access Control for Node.js",
   "main": "./index.js",
   "directories": {
