@@ -1,5 +1,5 @@
 {
-  "name": "@kyrisu/access-control",
+  "name": "@proxaai/access-control",
   "version": "6.0.4",
   "description": "Role, Attribute and Condition based Access Control for Node.js",
   "main": "./index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kyrisu/access-control.git"
+    "url": "git+https://github.com/ProxaAI/access-control.git"
   },
   "keywords": [
     "access",
@@ -45,12 +45,12 @@
     "glob",
     "wildcard"
   ],
-  "author": "kyrisu <kyrisu@kyrisu.com>",
+  "author": "kyrisu <kyrisu@proxaai.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kyrisu/access-control/issues"
+    "url": "https://github.com/ProxaAI/access-control/issues"
   },
-  "homepage": "https://github.com/kyrisu/access-control#readme",
+  "homepage": "https://github.com/ProxaAI/access-control#readme",
   "devDependencies": {
     "@types/lodash.clonedeep": "^4.5.7",
     "@types/node": "^20.8.7",
